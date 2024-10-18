@@ -1,4 +1,4 @@
-# WavScopt
+# WavScope
 
 This is a Max For Live device that displays audio as a waveform with an adjustable "zoom" control.
 

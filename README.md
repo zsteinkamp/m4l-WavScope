@@ -12,7 +12,7 @@ Download the newest .amxd file from the [Releases Page](https://github.com/zstei
 
 ## Changelog
 
-* 2024-10-18 [v1](https://github.com/zsteinkamp/m4l-WavScope/releases/v1/download/WavScope-v1.amxd) - Initial release.
+* 2024-10-18 [v1](https://github.com/zsteinkamp/m4l-WavScope/releases/download/v1/WavScope-v1.amxd) - Initial release.
 
 ## Usage
 

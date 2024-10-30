@@ -12,6 +12,7 @@ Download the newest .amxd file from the [Releases Page](https://github.com/zstei
 
 ## Changelog
 
+* 2024-10-29 [v2](https://github.com/zsteinkamp/m4l-WavScope/releases/download/v2/WavScope-v2.amxd) - Adds non-blocking, non-identifying telemetry.
 * 2024-10-18 [v1](https://github.com/zsteinkamp/m4l-WavScope/releases/download/v1/WavScope-v1.amxd) - Initial release.
 
 ## Usage

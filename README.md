@@ -2,11 +2,11 @@
 
 This is a Max For Live device that displays audio as a waveform with an adjustable "zoom" control.
 
+![How it Looks](images/device.gif)
+
 This is useful to see how an effect changes the waveform if you put a WavScope before an and after the effect.
 
 I made a [video going through building this device step-by-step](https://www.youtube.com/watch?v=bW8M0wRehgE). Maybe do that instead of just downloading it?
-
-![How it Looks](images/device.gif)
 
 ## Installation
 

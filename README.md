@@ -6,6 +6,8 @@ This is a Max For Live device that displays audio as a waveform with an adjustab
 
 This is useful to see how an effect changes the waveform if you put a WavScope before an and after the effect. With its Sidechain control, you can visualize two waveforms at once. This is useful for balancing kick and bass, among other things.
 
+![Before and After](images/beforeafter.png)
+
 I made a [video going through building a simpler version of this device step-by-step](https://www.youtube.com/watch?v=bW8M0wRehgE). Maybe do that instead of just downloading it?
 
 ## Installation
@@ -37,6 +39,6 @@ Use the `Sidechain` controls to display a second waveform. Useful to help balanc
 
 * ...
 
-## Contributing
+## Credit
 
-I'd love it if others extended this device. If you would like to contribute, simply fork this repo, make your changes, and open a pull request and I'll have a look.
+Thank you to JXQU3 for publishing [JoyDuck](https://maxforlive.com/library/device/10844/joyduck-audio-triggered-envelope-sidechain) which provided useful abstractions for working with audio channels.

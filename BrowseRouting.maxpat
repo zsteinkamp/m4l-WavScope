@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 1367.0, 883.0, 1000.0, 780.0 ],
+		"rect" : [ 676.0, 293.0, 600.0, 780.0 ],
 		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
 		"integercoordinates" : 1,
@@ -188,15 +188,7 @@
 					"patching_rect" : [ 205.0, 345.0, 53.0, 29.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 0.0, 0.0, 78.0, 18.0 ],
-					"saved_attribute_attributes" : 					{
-						"textcolor" : 						{
-							"expression" : "themecolor.live_display_scale_text"
-						}
-
-					}
-,
 					"text" : "Sidechain Input",
-					"textcolor" : [ 0.525490196078431, 0.525490196078431, 0.525490196078431, 1.0 ],
 					"textjustification" : 1
 				}
 
@@ -375,12 +367,12 @@
 					"presentation_rect" : [ 0.0, 17.0, 80.0, 20.0 ],
 					"saved_attribute_attributes" : 					{
 						"textcolor" : 						{
-							"expression" : "themecolor.live_value_arc"
+							"expression" : "themecolor.live_control_selection"
 						}
 
 					}
 ,
-					"textcolor" : [ 0.011764705882353, 0.764705882352941, 0.835294117647059, 1.0 ]
+					"textcolor" : [ 1.0, 0.67843137254902, 0.337254901960784, 1.0 ]
 				}
 
 			}
@@ -411,12 +403,12 @@
 					"presentation_rect" : [ 0.0, 32.0, 80.0, 20.0 ],
 					"saved_attribute_attributes" : 					{
 						"textcolor" : 						{
-							"expression" : "themecolor.live_value_arc"
+							"expression" : "themecolor.live_control_selection"
 						}
 
 					}
 ,
-					"textcolor" : [ 0.011764705882353, 0.764705882352941, 0.835294117647059, 1.0 ]
+					"textcolor" : [ 1.0, 0.67843137254902, 0.337254901960784, 1.0 ]
 				}
 
 			}
